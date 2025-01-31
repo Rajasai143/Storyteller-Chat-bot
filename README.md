@@ -1,6 +1,6 @@
 # Storyteller-Chat-bot
 
-A magical AI-powered storytelling application that creates age-appropriate stories on any theme. Built with Streamlit and Google's Gemini Pro AI model.
+AI-powered storytelling application that creates age-appropriate stories on any theme. Built with Streamlit and Google's Gemini Pro AI model.
 
 ## ✨ Features
 - **Age-Appropriate Content**: Stories tailored for different age groups (3-6, 7-12, 13-16, 17+)
