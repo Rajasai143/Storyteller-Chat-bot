@@ -86,4 +86,4 @@ This application uses AI to generate stories. While we strive to make content ag
 
 Raja Sai  - [rajasaidurgam333@gmail.com](mailto:rajasaidurgam333@gmail.com)
 
-Project Link: [https://github.com/Rajasai143/Storyteller-Chat-bot](https://github.com/Rajasai143/Storyteller-Chat-bot)
+Project Link:  https://github.com/Rajasai143/Storyteller-Chat-bot.git
